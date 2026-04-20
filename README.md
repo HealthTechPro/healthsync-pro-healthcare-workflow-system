@@ -197,8 +197,31 @@ The problem is not clinical knowledge. The problem is evidence packaging, docume
 
 ## Case Study Files
 
-- [Bariatric Surgery Readiness Workflow](case-study/Bariatric%20Surgery%20Readiness%20Workflow.pdf)
-- [Operationalizing Readiness & Compliance in Regulated Healthcare](case-study/Operationalizing%20Readiness%20%26%20Compliance%20in%20Regulated%20Healthcare%20An%20Implementation%20Case%20Study.pdf)
+Primary case study:
+- Bariatric Surgery Readiness Workflow  
+- Operationalizing Readiness & Compliance in Regulated Healthcare  
+
+Supporting research:
+- Research Summary (structured concepts and system design)
+- Raw Research Notes (detailed background and source material)
+
+---
+
+## Research Focus
+
+This project is grounded in real-world research on:
+
+- bariatric surgery readiness workflows  
+- prior authorization requirements  
+- GLP-1 medication criteria  
+- multidisciplinary obesity management  
+- high-frequency patient data tracking  
+
+The research identifies a critical gap:
+
+> Healthcare inefficiencies are driven by documentation structure and data recency—not lack of clinical knowledge.
+
+HealthSync Pro translates this insight into a working system.
 
 ---
 
